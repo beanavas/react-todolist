@@ -13,5 +13,6 @@ CSS 🎀: For styling the application.
 
 Checkout a quick video on it below!
 
-https://github.com/user-attachments/assets/e9e174d1-4824-4856-8a40-26db754c3d26
+
+https://github.com/user-attachments/assets/b6ab6f6c-7a41-4aa0-a006-4d956b04c748
 
